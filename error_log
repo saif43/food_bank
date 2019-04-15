@@ -1,0 +1,2 @@
+[14-Apr-2018 08:30:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pointerr/zahid.pointerror.com/Food Bank/connection.php on line 7
+[14-Apr-2018 08:34:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pointerr/zahid.pointerror.com/Foodbank/connection.php on line 7
